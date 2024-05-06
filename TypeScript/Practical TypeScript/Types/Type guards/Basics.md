@@ -16,9 +16,7 @@ function processInput(input: string | number) {
 processInput(10);  
 processInput('example');
 ```
-
----
-#### Examples
+#### Example
 
 ```ts
 type ValueType = string | number | boolean;  

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TypeScript/Practical TypeScript/Equality narrowing.md",
+                "file": "TypeScript/Practical TypeScript/Types/Generics/Type constraints.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TypeScript/Practical TypeScript/Equality narrowing.md",
+                "file": "TypeScript/Practical TypeScript/Types/Generics/Type constraints.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TypeScript/Practical TypeScript/Equality narrowing.md",
+                "file": "TypeScript/Practical TypeScript/Types/Generics/Type constraints.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TypeScript/Practical TypeScript/Equality narrowing.md"
+                "file": "TypeScript/Practical TypeScript/Types/Generics/Type constraints.md"
               }
             }
           }
@@ -147,45 +147,45 @@
       "command-palette:Otwórz paletę poleceń": false
     }
   },
-  "active": "c8635cbc429d6948",
+  "active": "4dd143499bb8b9dc",
   "lastOpenFiles": [
-    "2024-05-05.md",
-    "TypeScript/Practical TypeScript/Equality narrowing.md",
-    "Bez nazwy.canvas",
+    "TypeScript/Practical TypeScript/Types/Generics/Multiple types.md",
+    "TypeScript/Practical TypeScript/Types/Generics/Type constraints.md",
+    "TypeScript/Practical TypeScript/Types/Generics/Basics.md",
+    "TypeScript/Practical TypeScript/Types/Type guards/Discriminated Unions.md",
+    "TypeScript/Practical TypeScript/Types/Generics",
+    "TypeScript/Practical TypeScript/Types/Type guards/Type predicate.md",
+    "TypeScript/Practical TypeScript/Types/Union types.md",
+    "TypeScript/Practical TypeScript/Types/Type unknown.md",
+    "TypeScript/Practical TypeScript/Types/Type never.md",
+    "TypeScript/Practical TypeScript/Types/Type assertions.md",
+    "TypeScript/Practical TypeScript/Types/Type annotations.md",
+    "TypeScript/Practical TypeScript/Types/Type guards/Instance of.md",
+    "TypeScript/Practical TypeScript/Types/Type guards/Truthy & falsy.md",
+    "TypeScript/Practical TypeScript/Types/Type guards/Basics.md",
+    "TypeScript/Practical TypeScript/Types/Type guards/Equality narrowing and \"in\".md",
+    "TypeScript/Practical TypeScript/Types/Type guards",
     "TypeScript/Practical TypeScript/Types/Type guard.md",
+    "TypeScript/Practical TypeScript/Equality narrowing.md",
+    "2024-05-05.md",
+    "Bez nazwy.canvas",
     "TypeScript/Practical TypeScript/Modules/Basics.md",
     "TypeScript/Practical TypeScript/Modules/Importing types.md",
-    "TypeScript/Practical TypeScript/Types/Type never.md",
     "TypeScript/Practical TypeScript/Modules",
     "TypeScript/Practical TypeScript/Functions.md",
-    "TypeScript/Practical TypeScript/Types/Type unknown.md",
     "TypeScript/Practical TypeScript/Types",
-    "TypeScript/Practical TypeScript/Types/Type assertions.md",
     "TypeScript/Practical TypeScript/Types/Enums.md",
     "TypeScript/Practical TypeScript/Types/Tuples.md",
-    "TypeScript/Practical TypeScript/Types/Union types.md",
-    "TypeScript/Practical TypeScript/Types/Type annotations.md",
     "TypeScript/Practical TypeScript/Important notes.md",
     "TypeScript/Practical TypeScript/Types/Array types.md",
     "TypeScript/Practical TypeScript/Objects/Type intersection.md",
     "TypeScript/Practical TypeScript/Objects/Type alias.md",
-    "TypeScript/Practical TypeScript/Objects/Object types.md",
-    "TypeScript/Practical TypeScript/Objects/Object default params.md",
-    "TypeScript/Practical TypeScript/Objects/Object referencing.md",
-    "TypeScript/Practical TypeScript/Objects/Object annotations.md",
-    "TypeScript/Practical TypeScript/Interface/Type predicate.md",
-    "TypeScript/Practical TypeScript/Interface/Methods as props in interface.md",
-    "TypeScript/Practical TypeScript/Interface/Merging and extending interface.md",
-    "TypeScript/Practical TypeScript/Interface/Interface fundamentals.md",
-    "TypeScript/Basics/How to initialize new TypeScript project with NPM and tsconfig.json.md",
     "TypeScript/Practical TypeScript/Interface",
     "TypeScript/Practical TypeScript/Type aliases",
     "TypeScript/Practical TypeScript/Objects",
     "JavaScript/Arrays",
     "TypeScript/Practical TypeScript",
     "JavaScript/HTML DOM",
-    "JavaScript/Loops",
-    "Node.js",
     "Files/Pasted image 20240408063210.png",
     "Files/Pasted image 20240408062228.png",
     "React/Bez nazwy.canvas",

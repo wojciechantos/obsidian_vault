@@ -1,3 +1,4 @@
+
 Equality narrowing is a form of type narrowing that occurs when you use equality checks like `===` or `!==`
 
 ```ts
