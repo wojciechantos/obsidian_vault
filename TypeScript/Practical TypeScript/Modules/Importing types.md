@@ -2,7 +2,7 @@ Preferably, we should define all our types in a separate `types.ts` file, to be 
 To import type, we do this by adding export keyword to the type declaration:
 
 ```ts
-// actions.ts
+// types.ts
 
 export type Student = {  
     name: string;  

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TypeScript/Practical TypeScript/Types/Generics/Type constraints.md",
+                "file": "TypeScript/Practical TypeScript/Classes/Interface implementation.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TypeScript/Practical TypeScript/Types/Generics/Type constraints.md",
+                "file": "TypeScript/Practical TypeScript/Classes/Interface implementation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TypeScript/Practical TypeScript/Types/Generics/Type constraints.md",
+                "file": "TypeScript/Practical TypeScript/Classes/Interface implementation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TypeScript/Practical TypeScript/Types/Generics/Type constraints.md"
+                "file": "TypeScript/Practical TypeScript/Classes/Interface implementation.md"
               }
             }
           }
@@ -149,8 +149,21 @@
   },
   "active": "4dd143499bb8b9dc",
   "lastOpenFiles": [
-    "TypeScript/Practical TypeScript/Types/Generics/Multiple types.md",
+    "TypeScript/Practical TypeScript/Classes/Getters and setters.md",
+    "TypeScript/Practical TypeScript/Classes/Interface implementation.md",
+    "TypeScript/Practical TypeScript/Classes/Public and private modifiers.md",
+    "TypeScript/Practical TypeScript/Classes/Default properties and readonly attribute.md",
+    "TypeScript/Practical TypeScript/Classes/Basics.md",
+    "TypeScript/Practical TypeScript/TS config file.md",
+    "TypeScript/Practical TypeScript/Classes",
+    "TypeScript/Practical TypeScript/TypeScript declaration files.md",
+    "TypeScript/Practical TypeScript/Modules/Importing types.md",
+    "TypeScript/Practical TypeScript/Modules/Basics.md",
+    "TypeScript/Practical TypeScript/Fetching data/Basics.md",
+    "TypeScript/Practical TypeScript/Types/Generics/Default types.md",
+    "TypeScript/Practical TypeScript/Fetching data",
     "TypeScript/Practical TypeScript/Types/Generics/Type constraints.md",
+    "TypeScript/Practical TypeScript/Types/Generics/Multiple types.md",
     "TypeScript/Practical TypeScript/Types/Generics/Basics.md",
     "TypeScript/Practical TypeScript/Types/Type guards/Discriminated Unions.md",
     "TypeScript/Practical TypeScript/Types/Generics",
@@ -166,26 +179,13 @@
     "TypeScript/Practical TypeScript/Types/Type guards/Equality narrowing and \"in\".md",
     "TypeScript/Practical TypeScript/Types/Type guards",
     "TypeScript/Practical TypeScript/Types/Type guard.md",
-    "TypeScript/Practical TypeScript/Equality narrowing.md",
-    "2024-05-05.md",
     "Bez nazwy.canvas",
-    "TypeScript/Practical TypeScript/Modules/Basics.md",
-    "TypeScript/Practical TypeScript/Modules/Importing types.md",
     "TypeScript/Practical TypeScript/Modules",
-    "TypeScript/Practical TypeScript/Functions.md",
     "TypeScript/Practical TypeScript/Types",
-    "TypeScript/Practical TypeScript/Types/Enums.md",
-    "TypeScript/Practical TypeScript/Types/Tuples.md",
-    "TypeScript/Practical TypeScript/Important notes.md",
-    "TypeScript/Practical TypeScript/Types/Array types.md",
-    "TypeScript/Practical TypeScript/Objects/Type intersection.md",
-    "TypeScript/Practical TypeScript/Objects/Type alias.md",
     "TypeScript/Practical TypeScript/Interface",
     "TypeScript/Practical TypeScript/Type aliases",
     "TypeScript/Practical TypeScript/Objects",
     "JavaScript/Arrays",
-    "TypeScript/Practical TypeScript",
-    "JavaScript/HTML DOM",
     "Files/Pasted image 20240408063210.png",
     "Files/Pasted image 20240408062228.png",
     "React/Bez nazwy.canvas",
