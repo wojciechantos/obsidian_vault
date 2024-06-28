@@ -1,19 +1,30 @@
+DOM - Document Object Model is a tree-like representation of the contents of a webpage - a tree of "nodes" with different relationships depending on how they're arranged in the HTML document.
+
+```html
+<div id="container"> //parent
+  <div class="display"></div> // child of 'container' / sibling to 'controls'
+  <div class="controls"></div>
+</div>
+```
+
 
 **CREATING ELEMENTS**
 
-`// Syntax`
-`const element = document.createElement('element');`
+```js
+// Syntax
+const element = document.createElement('element');
 
-`parentElement.appendChild(element);`
+parentElement.appendChild(element);
 
-`// examples`
-`const div = document.createElement('div');`
-`body.appendChild(div);`
+// examples
+const div = document.createElement('div');
+body.appendChild(div);
 
-`const ul = document.createElement('ul');`
-`const li = document.createElement('li');`
+const ul = document.createElement('ul');
+const li = document.createElement('li');
 
-`ul.appendChild(li);`
+ul.appendChild(li);
+```
 
 ---
 
