@@ -1,7 +1,7 @@
 
 2024-08-02 | 11:05
 
-##### Tags: 
+##### Tags: [[Cloud]] [[Azure Cloud]]
 
 ---
 Fault Tolerance term stands for the ability for your service to ensure there is no single point of failure. **Preventing** the chance of failure.
