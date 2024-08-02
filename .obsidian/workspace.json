@@ -1,52 +1,35 @@
 {
   "main": {
-    "id": "c87b42dcac1d086b",
+    "id": "2d62d53dab29b9c3",
     "type": "split",
     "children": [
       {
-        "id": "6023deddc4a6a925",
+        "id": "aa09aa32f0d7560d",
         "type": "tabs",
         "children": [
           {
-            "id": "7b33932baa23285e",
+            "id": "522b1e77fec49d47",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Node.js/Event emitter.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "40d491ed45fa8f15",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "TypeScript/Practical TypeScript/TypeScript Fundamentals/Classes/Getters and setters.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "b08cc86ffcf0c20c",
+    "id": "ca4d21f14688618c",
     "type": "split",
     "children": [
       {
-        "id": "82243483ad8ec529",
+        "id": "7b336173981c8851",
         "type": "tabs",
         "children": [
           {
-            "id": "c8635cbc429d6948",
+            "id": "40f3d7a3c0b3048a",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -56,7 +39,7 @@
             }
           },
           {
-            "id": "71c05f7ff5a95f70",
+            "id": "e36796b6c16a2d6a",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -71,7 +54,7 @@
             }
           },
           {
-            "id": "bcd588f2cb341d6e",
+            "id": "6ab6d2e1ba18e6d6",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -85,20 +68,19 @@
     "width": 300
   },
   "right": {
-    "id": "ed7fa2da3e64bf12",
+    "id": "ad27cfdc416fb709",
     "type": "split",
     "children": [
       {
-        "id": "c5d554b932938f6a",
+        "id": "6449401859debfb0",
         "type": "tabs",
         "children": [
           {
-            "id": "f5a791b7dc2cb250",
+            "id": "47bb2abed593aa25",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TypeScript/Practical TypeScript/TypeScript Fundamentals/Classes/Getters and setters.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,19 +92,18 @@
             }
           },
           {
-            "id": "e1f78680aadf3be5",
+            "id": "dad7de41f7083019",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TypeScript/Practical TypeScript/TypeScript Fundamentals/Classes/Getters and setters.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "1907772d9968a2b5",
+            "id": "2665a20f343813b1",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -133,17 +114,14 @@
             }
           },
           {
-            "id": "c69ca37376cfec4f",
+            "id": "73ede642c4aa2ab3",
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "TypeScript/Practical TypeScript/TypeScript Fundamentals/Classes/Getters and setters.md"
-              }
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -160,50 +138,46 @@
       "command-palette:Otwórz paletę poleceń": false
     }
   },
-  "active": "40d491ed45fa8f15",
+  "active": "522b1e77fec49d47",
   "lastOpenFiles": [
-    "TypeScript/Practical TypeScript/TypeScript Fundamentals/Important notes.md",
-    "TypeScript/Practical TypeScript/TypeScript Fundamentals/HTML elements.md",
-    "TypeScript/Practical TypeScript/TypeScript Fundamentals/Types/Type unknown.md",
-    "TypeScript/Practical TypeScript/TypeScript Fundamentals/Types/Type annotations.md",
-    "TypeScript/Practical TypeScript/TypeScript Fundamentals/Types/Type guards/Basics.md",
-    "TypeScript/Practical TypeScript/TypeScript Fundamentals/Types/Type guards/Discriminated Unions.md",
-    "TypeScript/Practical TypeScript/TypeScript Fundamentals/Types/Type guards/Equality narrowing and \"in\".md",
-    "TypeScript/Practical TypeScript/TypeScript Fundamentals/Types/Type guards/Instance of.md",
-    "TypeScript/Practical TypeScript/TypeScript Fundamentals/Types/Type guards/Truthy & falsy.md",
-    "TypeScript/Practical TypeScript/TypeScript Fundamentals/Types/Type guards/Type predicate.md",
-    "TypeScript/Practical TypeScript/TypeScript Fundamentals/Classes/Default properties and readonly attribute.md",
-    "TypeScript/Practical TypeScript/TypeScript Fundamentals/Classes/Public and private modifiers.md",
-    "TypeScript/Practical TypeScript/TypeScript Fundamentals/Classes/Interface implementation.md",
-    "TypeScript/Practical TypeScript/TypeScript Fundamentals/Classes/Getters and setters.md",
-    "TypeScript/Practical TypeScript/TypeScript Fundamentals/Classes/Basics.md",
-    "TypeScript/Practical TypeScript/TypeScript Fundamentals/TypeScript declaration files.md",
-    "TypeScript/Practical TypeScript/TypeScript Fundamentals/TS config file.md",
-    "TypeScript/Basics/How to initialize new TypeScript project with NPM and tsconfig.json.md",
-    "Databases/SQL vs NoSQL/Basics.md",
-    "Databases/SQL/NoSQL.md",
-    "Node.js/FS module.md",
-    "Databases/SQL vs NoSQL",
-    "Databases",
-    "Node.js/URL class.md",
-    "Node.js/Running node scripts from command line.md",
-    "Node.js/Event emitter.md",
-    "JavaScript/HTML DOM/DOM manipulation.md",
-    "JavaScript/HTML DOM/Navigation.md",
-    "AzureVM__deployment.png",
-    "React/Server Components",
-    "Next.js/Basics",
-    "JavaScript/Useful",
-    "Notatki/Książki/\"Nauka programowania\" - Eric Freeman",
-    "Notatki/Książki",
-    "Notatki",
-    "Files/Pasted image 20240408063210.png",
-    "Files/Pasted image 20240408062228.png",
-    "Strapi CMS/Azure VM hosting/Warianty deploymentu",
-    "Strapi CMS/Azure VM hosting",
-    "Bez nazwy.canvas",
-    "React/Bez nazwy.canvas",
-    "SSR/Bez nazwy.canvas",
-    "Bez nazwy 1.canvas"
+    "obsidian_vault-main/TypeScript/Practical TypeScript/TypeScript in React/hooks/useState() hook.md",
+    "obsidian_vault-main/TypeScript/Practical TypeScript/TypeScript in React/hooks/useReducer() hook.md",
+    "obsidian_vault-main/TypeScript/Practical TypeScript/TypeScript in React/hooks",
+    "obsidian_vault-main/TypeScript/Practical TypeScript/TypeScript in React/Events/Events in React.md",
+    "obsidian_vault-main/TypeScript/Practical TypeScript/TypeScript in React/Events",
+    "obsidian_vault-main/TypeScript/Practical TypeScript/TypeScript in React/Components/Return type.md",
+    "obsidian_vault-main/TypeScript/Practical TypeScript/TypeScript in React/Components/Props.md",
+    "obsidian_vault-main/TypeScript/Practical TypeScript/TypeScript in React/Components",
+    "obsidian_vault-main/TypeScript/Practical TypeScript/TypeScript in React",
+    "obsidian_vault-main/TypeScript/Practical TypeScript/TypeScript Fundamentals/Types/Type guards/Type predicate.md",
+    "obsidian_vault-main/TypeScript/Practical TypeScript/TypeScript Fundamentals/Types/Type guards/Truthy & falsy.md",
+    "obsidian_vault-main/TypeScript/Practical TypeScript/TypeScript Fundamentals/Types/Type guards/Instance of.md",
+    "obsidian_vault-main/TypeScript/Practical TypeScript/TypeScript Fundamentals/Types/Type guards/Equality narrowing and _in_.md",
+    "obsidian_vault-main/TypeScript/Practical TypeScript/TypeScript Fundamentals/Types/Type guards/Discriminated Unions.md",
+    "obsidian_vault-main/TypeScript/Practical TypeScript/TypeScript Fundamentals/Types/Type guards/Basics.md",
+    "obsidian_vault-main/TypeScript/Practical TypeScript/TypeScript Fundamentals/Types/Type guards",
+    "obsidian_vault-main/TypeScript/Practical TypeScript/TypeScript Fundamentals/Types/Generics/Type constraints.md",
+    "obsidian_vault-main/TypeScript/Practical TypeScript/TypeScript Fundamentals/Types/Generics/Multiple types.md",
+    "obsidian_vault-main/TypeScript/Practical TypeScript/TypeScript Fundamentals/Types/Generics/Default types.md",
+    "obsidian_vault-main/TypeScript/Practical TypeScript/TypeScript Fundamentals/Types/Generics/Basics.md",
+    "obsidian_vault-main/TypeScript/Practical TypeScript/TypeScript Fundamentals/Types/Generics",
+    "obsidian_vault-main/TypeScript/Practical TypeScript/TypeScript Fundamentals/Types/Union types.md",
+    "obsidian_vault-main/TypeScript/Practical TypeScript/TypeScript Fundamentals/Types/Type unknown.md",
+    "obsidian_vault-main/TypeScript/Practical TypeScript/TypeScript Fundamentals/Types/Type never.md",
+    "obsidian_vault-main/TypeScript/Practical TypeScript/TypeScript Fundamentals/Types/Type assertions.md",
+    "obsidian_vault-main/TypeScript/Practical TypeScript/TypeScript Fundamentals/Types/Type annotations.md",
+    "obsidian_vault-main/TypeScript/Practical TypeScript/TypeScript Fundamentals/Types/Tuples.md",
+    "obsidian_vault-main/TypeScript/Practical TypeScript/TypeScript Fundamentals/Types/Enums.md",
+    "obsidian_vault-main/TypeScript/Practical TypeScript/TypeScript Fundamentals/Types/Array types.md",
+    "obsidian_vault-main/TypeScript/Practical TypeScript/TypeScript Fundamentals/Types",
+    "obsidian_vault-main/TypeScript/Practical TypeScript/TypeScript Fundamentals/Objects/Type intersection.md",
+    "obsidian_vault-main/TypeScript/Practical TypeScript/TypeScript Fundamentals/Objects/Type alias.md",
+    "obsidian_vault-main/TypeScript/Practical TypeScript/TypeScript Fundamentals/Objects/Object types.md",
+    "obsidian_vault-main/TypeScript/Practical TypeScript/TypeScript Fundamentals/Objects",
+    "obsidian_vault-main/TypeScript/Practical TypeScript/TypeScript Fundamentals/Modules",
+    "obsidian_vault-main/TypeScript/Practical TypeScript/TypeScript Fundamentals/Interface",
+    "obsidian_vault-main/Files/Pasted image 20240408063210.png",
+    "obsidian_vault-main/Files/Pasted image 20240408062228.png",
+    "obsidian_vault-main/AzureVM__deployment.png"
   ]
 }
